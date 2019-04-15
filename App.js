@@ -25,7 +25,7 @@ var createReactClass = require('create-react-class');
 /*
  * TODO: Add your API key below!!
  */
-var apiKey = "YOUR_API_KEY_HERE";
+var apiKey = "7756B7E2-DF19-46E5-B33D-9BBC487AB647";
 
 var vrScenes = {
     '360PhotoTour': require('./js/360PhotoTour/MainScene'),
